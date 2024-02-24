@@ -5,7 +5,7 @@ This Python script runs a GUI that simulates the popular game of chess. The user
 To start, clone this repository to a local directory by typing `git clone https://github.com/pragyatk/Chess-GUI.git` in your terminal. Then, navigate to the `Chess-GUI` directory and type `python play_chess.py` in the terminal to execute the script and have the GUI pop up.
 
 ## GUI structure
-![alt-text](chess_gui.png)
+![alt-text](chess_gui.png)\
 Once the GUI pops up, the user will have several options to choose before and even during the game. The user must select a color to play as before starting the game by clicking the `Start` button. The user may change the CPU difficulty, whether to show legal moves, and whether to enable training mode at any time during the game.
 
 ## Training mode
